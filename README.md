@@ -2,7 +2,7 @@
 
 Современное веб-приложение для управления банковскими счетами с адаптивным дизайном и интуитивно понятным интерфейсом.
 Ссылка для просмотра:
-https://frontend-pied-one-adr7mvvz3p.vercel.app/
+https://frontend-ogyw015eh-zebergs-projects.vercel.app/
 
 ## 🚀 Особенности
 
